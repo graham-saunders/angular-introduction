@@ -9,7 +9,7 @@ This course is designed to give an overview of Angular JS. In this course we wil
 - [Angular 1 to 2](https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html)
 
 
-** Email **
+**Email**
 - GrahamSaundersMusic@gmail.com
 
 
