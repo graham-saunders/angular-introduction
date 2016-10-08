@@ -14,4 +14,6 @@ This course is designed to give an overview of Angular JS. In this course we wil
 - GrahamSaundersMusic@gmail.com
 
 
+**Slideshow credits**
+- [Sigma](http://sigma.software/)
 
